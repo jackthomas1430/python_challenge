@@ -13,14 +13,14 @@ The results are printed to the terminal and exported onto a txt file, "election_
 
 ##Files
     
-    - "python_challenge": The main repo for both the PyBank and PyPoll challenges. The PyPoll challenge folder contains the main Python script for the election results analysis, a "Resources" folder containing the dataset, and an "Anaylsis" folder with the txt file containing the results. 
+    - "python_challenge"(https://github.com/jackthomas1430/python_challenge.git): The main repo for both the PyBank and PyPoll challenges. The PyPoll challenge folder contains the main Python script for the election results analysis, a "Resources" folder containing the dataset, and an "Anaylsis" folder with the txt file containing the results. 
     - "election_data.csv": The dataset is located in the "Resources" folder.
     - "pypoll_main.py":The main Python script for the PyPoll challenge. It is located inside the "PyPoll" folder inside the "python_challenge" repo
-    - "election_results.txt": The txt file with the results of the anyalsis. Located in the "Resources" folder inside the PyBank Folder 
+    - "election_results.txt": The txt file with the results of the anyalsis. Located in the "Resources" folder inside the "PyBank" Folder 
 
 ##Instructions
    
-    1. Clone the repository to your local device using git clone <insert link>
+    1. Clone the repository to your local device using git clone https://github.com/jackthomas1430/python_challenge.git
     2. Check that the "election_data.csv" is located in the "Resources" folder
     3. Run the script: python pypoll_main.py 
 
