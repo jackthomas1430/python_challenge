@@ -13,7 +13,8 @@ The purpose of this project is to examine the financial records of a company. Th
 The results are printed to the terminal and exported onto the txt file, "financial_analysis.txt", which is located in the "Resources" folder. 
 
 ##File Structure
-    -"python_challenge": The main repo for both the PyBank and PyPoll challenges. The PyBank challenge folder contains the        main Python script for the election results analysis, a "Resources" folder containing the dataset, and an "Anaylsis"        folder with the txt file containing the results. 
+    
+    -"python_challenge"(https://github.com/jackthomas1430/python_challenge.git): The main repo for both the PyBank and PyPoll challenges. The PyBank challenge folder contains the main Python script for the election results analysis, a "Resources" folder containing the dataset, and an "Anaylsis" folder with the txt file containing the results. 
     -"budget_data.csv": The dataset is located in the "Resources" folder. It contains two columns: "Date" and         
       "Profit/Losses"
     -"pybank_main.py": The main Python script for the PyBank Challenge. Find in the "PyBank" folder inside the     
@@ -22,7 +23,7 @@ The results are printed to the terminal and exported onto the txt file, "financi
     
 ##Instructions
    
-    1. Clone the repository to your local device using git clone <insert link>
+    1. Clone the repository to your local device using git clone "https://github.com/jackthomas1430/python_challenge.git"
     2. Check that the "budget_data.csv" is located in the "Resources" folder
     3. Run the script: python pybank_main.py 
 
