@@ -16,11 +16,11 @@ with open(election_csv) as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     header=next(csvreader)
 
- # For loop through to calculate votes; add up total votes; candidate name stored in column 3 
+ # Loop through data in csv to calculate votes; add up total votes; candidate name stored in column 3 
     for row in csvreader:
         total_votes += 1
         candidate = row[2]
-        #Check if candidate is already in election results dictionary and add to vote count or sets vote count to 1 
+        #Check if candidate is already in election results dictionary. Add to vote count or sets vote count to 1 
         if candidate in election_results:
             election_results[candidate] += 1
         else:
