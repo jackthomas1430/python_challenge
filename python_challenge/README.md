@@ -13,8 +13,8 @@ The purpopse of the Module 3 challenge is create Python scripts to analyze two C
 ##Instructions
    
     1. Clone the repository to your local device using git clone <insert link>
-    2. Open the "PyBank" folder and click on the file "README.md". This file contains the instructions fo the PyBank Challenge 
-    3. Open the "PyPoll" folder and click on the file "README.md". This file contains the instructions fo the PyPoll Challenge
+    2. Open the "PyBank" folder and click on the file "README.md". This file contains the instructions for the PyBank Challenge 
+    3. Open the "PyPoll" folder and click on the file "README.md". This file contains the instructions for the PyPoll Challenge
 
 ##Acknowledgements
     
