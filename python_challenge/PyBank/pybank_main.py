@@ -7,9 +7,9 @@ budget_csv = os.path.join('Resources', 'budget_data.csv')
 # Initialize total months + profit losses variables
 total_months = 0
 total = 0
-#Track previous profit/loss
+#Track previous profit/loss. Set = None so that it starts at the first point of change within the dataset.
 previous_change = None
-#Initialize lists to track monthly profit/loss change and corresponding month
+#Initialize lists to track monthly change in profits/losses and the corresponding date
 changes = []
 months = []
 #Initialize dictionaries to track greatest increase and decrease
