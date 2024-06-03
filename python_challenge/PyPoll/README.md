@@ -8,15 +8,15 @@ The purpose of this project is to analyze election data to help a small town wit
     -Total number and percentage of votes each candidate received
     -The winner of the election 
 
-The results are printed to the terminal and exported onto a txt file, "election_results.txt", which is located inside the "Resources" folder.  
+The results are printed to the terminal and exported onto the file, "election_results.txt". 
     
 
 ##Files
     
-    - "python_challenge"(https://github.com/jackthomas1430/python_challenge.git): The main repo for both the PyBank and PyPoll challenges. The PyPoll challenge folder contains the main Python script for the election results analysis, a "Resources" folder containing the dataset, and an "Anaylsis" folder with the txt file containing the results. 
+    - "python_challenge"(https://github.com/jackthomas1430/python_challenge.git): The main repo for both the PyBank and PyPoll challenges. The PyPoll challenge folder contains the main Python script for the election results analysis, a "Resources" folder containing the dataset, and an "anaylsis" folder with the txt file containing the results. 
     - "election_data.csv": The dataset is located in the "Resources" folder.
     - "pypoll_main.py":The main Python script for the PyPoll challenge. It is located inside the "PyPoll" folder inside the "python_challenge" repo
-    - "election_results.txt": The txt file with the results of the anyalsis. Located in the "Resources" folder inside the "PyBank" Folder 
+    - "election_results.txt": The txt file with the results of the anyalsis. Located in the "analysis" folder inside the "PyPoll" Folder 
 
 ##Instructions
    
@@ -26,7 +26,7 @@ The results are printed to the terminal and exported onto a txt file, "election_
 
 ##Results
     
-    The following results will display to the terminal and be saved to the "election_results.txt" file, located in the "Analaysis" folder: 
+    The following results will display to the terminal and be saved to the "election_results.txt" file.
 
 Election Results
 
