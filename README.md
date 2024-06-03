@@ -12,7 +12,7 @@ The purpopse of the Module 3 challenge is to create two Python scripts to analyz
 
 ##Instructions
    
-    1. Clone the repository to your local device using git clone <insert link>
+    1. Clone the repository to your local device using git clone https://github.com/jackthomas1430/python_challenge.git
     2. Open the "PyBank" folder and click on the file "README.md". This file contains the instructions for the PyBank Challenge 
     3. Open the "PyPoll" folder and click on the file "README.md". This file contains the instructions for the PyPoll Challenge
 
