@@ -23,7 +23,7 @@ The results are printed to the terminal and exported onto the txt file, "financi
     
 ##Instructions
    
-    1. Clone the repository to your local device using git clone "https://github.com/jackthomas1430/python_challenge.git"
+    1. Clone the repository to your local device using git clone https://github.com/jackthomas1430/python_challenge.git
     2. Check that the "budget_data.csv" is located in the "Resources" folder
     3. Run the script: python pybank_main.py 
 
