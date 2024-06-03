@@ -2,7 +2,7 @@
 
 ##Overview
 
-The purpopse of the Module 3 challenge is create Python scripts to analyze two CSV files and calculate values from the dataset. The project is split into two parts. The first part, the PyBank challenge, anaylzes the financial records of a company, while the Pypoll challenge, helps a small town analyze election data. The main repo for this challenge is "python_challenge", which contains both a "PyBank" folder, and a "PyPoll" folder. The files needed for each analysis, including a detailed README, can be found inisde these folders. 
+The purpopse of the Module 3 challenge is to create two Python scripts to analyze CSV files and calculate values from the dataset. The project is split into two parts. The first part, the PyBank challenge, anaylzes the financial records of a company, while the Pypoll challenge, helps a small town analyze election data. The main repo for this challenge is "python_challenge", which contains both a "PyBank" folder, and a "PyPoll" folder. The files needed for each analysis, including a detailed README, can be found inisde these folders. 
 
 ##Files
     
@@ -13,8 +13,8 @@ The purpopse of the Module 3 challenge is create Python scripts to analyze two C
 ##Instructions
    
     1. Clone the repository to your local device using git clone <insert link>
-    2. Open the "PyBank" folder and click on the file "README.md". This file contains the instructions fo the PyBank Challenge 
-    3. Open the "PyPoll" folder and click on the file "README.md". This file contains the instructions fo the PyPoll Challenge
+    2. Open the "PyBank" folder and click on the file "README.md". This file contains the instructions for the PyBank Challenge 
+    3. Open the "PyPoll" folder and click on the file "README.md". This file contains the instructions for the PyPoll Challenge
 
 ##Acknowledgements
     
