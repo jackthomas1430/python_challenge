@@ -2,11 +2,11 @@
 
 ##Overview
 
-The purpopse of the Module 3 challenge is to create two Python scripts to analyze CSV files and calculate values from the dataset. The project is split into two parts. The first part, the PyBank challenge, anaylzes the financial records of a company, while the Pypoll challenge, helps a small town analyze election data. The main repo for this challenge is "python_challenge", which contains both a "PyBank" folder, and a "PyPoll" folder. The files needed for each analysis, including a detailed README, can be found inisde these folders. 
+The purpopse of the Module 3 challenge is to create two Python scripts to analyze CSV files and calculate values from the dataset. The project is split into two parts. The first part, the PyBank challenge, anaylzes the financial records of a company, while the Pypoll challenge, helps a small town analyze election data. The main repo for this challenge is "python_challenge" (https://github.com/jackthomas1430/python_challenge.git), which contains both a "PyBank" folder, and a "PyPoll" folder. The files needed for each analysis, including a detailed README, can be found inisde these folders. 
 
 ##Files
     
-    - "python_challenge": The main repo for both the PyBank and PyPoll challenges. The PyPoll challenge folder contains the main Python script for the election results analysis, a "Resources" folder containing the dataset, and an "Anaylsis" folder with the txt file containing the results. 
+    - "python_challenge" (https://github.com/jackthomas1430/python_challenge.git): The main repo for both the PyBank and PyPoll challenges. The PyPoll challenge folder contains the main Python script for the election results analysis, a "Resources" folder containing the dataset, and an "Anaylsis" folder with the txt file containing the results. 
     - "PyBank":the folder containing all files needed for the PyBank financial analysis 
     -"PyPoll":the folder containing all files needed for the PyPoll election results analysis 
 
